@@ -1,0 +1,8 @@
+../source/dsp.c:15:13:rfft	80	static
+../source/dsp.c:59:13:fft	64	static
+../source/dsp.c:89:9:mfft	40	static
+../source/dsp.c:106:9:mifft	40	static
+../source/dsp.c:124:9:maccel	16	static
+../source/dsp.c:129:9:mpqcos	16	static
+../source/dsp.c:136:9:mpqfft	16	static
+../source/dsp.c:141:9:mpqifft	16	static

@@ -1,0 +1,9 @@
+../source/edit.c:24:6:clear_fktext	16	static
+../source/edit.c:29:13:cpy	16	static
+../source/edit.c:33:13:push_in_history	24	static
+../source/edit.c:58:13:left	24	static
+../source/edit.c:68:13:fkinsert	40	static
+../source/edit.c:81:13:edithelp	48	static
+../source/edit.c:113:13:prompt	16	static
+../source/edit.c:127:8:edit	48	static
+../source/edit.c:278:6:next_line	32	static

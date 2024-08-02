@@ -1,0 +1,14 @@
+../source/graphics.c:16:9:msubplot	40	static
+../source/graphics.c:54:13:minmax	32	static
+../source/graphics.c:78:9:mplotarea	96	static
+../source/graphics.c:109:9:msetplot	64	static
+../source/graphics.c:140:13:parsestyle	72	static
+../source/graphics.c:340:9:mplot	104	static
+../source/graphics.c:379:9:mplot1	104	static
+../source/graphics.c:417:9:mplotstyle	64	static
+../source/graphics.c:443:9:mxgrid	96	static
+../source/graphics.c:507:9:mygrid	96	static
+../source/graphics.c:571:9:mtext	48	static
+../source/graphics.c:608:9:mtitle	16	static
+../source/graphics.c:619:9:mxlabel	16	static
+../source/graphics.c:630:9:mylabel	16	static

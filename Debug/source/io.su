@@ -1,0 +1,4 @@
+../source/io.c:20:9:mwritematrix	104	static
+../source/io.c:115:9:mreadmatrix	384	static
+../source/io.c:318:9:mwritewav	16	static
+../source/io.c:323:9:mreadwav	16	static

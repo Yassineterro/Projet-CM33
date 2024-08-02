@@ -1,0 +1,9 @@
+../source/spread.c:22:9:map1	64	static
+../source/spread.c:66:9:map1r	56	static
+../source/spread.c:109:9:map2	136	static
+../source/spread.c:225:9:map2r	128	static
+../source/spread.c:333:9:spread2	40	static
+../source/spread.c:344:9:spread2r	40	static
+../source/spread.c:357:13:funceval	16	static
+../source/spread.c:362:9:spread1	32	static
+../source/spread.c:373:9:spread1r	32	static

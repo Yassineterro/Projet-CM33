@@ -1,0 +1,13 @@
+../source/solver.c:27:6:lu	80	static
+../source/solver.c:126:6:make_lu	24	static
+../source/solver.c:134:6:lu_solve	64	static
+../source/solver.c:173:6:solvesim	64	static
+../source/solver.c:210:13:c_abs	16	static
+../source/solver.c:214:6:c_lu	88	static
+../source/solver.c:318:6:cmake_lu	24	static
+../source/solver.c:327:6:clu_solve	72	static
+../source/solver.c:376:6:c_solvesim	80	static
+../source/solver.c:425:6:tridiag	80	static
+../source/solver.c:472:6:ctridiag	96	static
+../source/solver.c:526:6:charpoly	56	static
+../source/solver.c:549:6:ccharpoly	88	static
